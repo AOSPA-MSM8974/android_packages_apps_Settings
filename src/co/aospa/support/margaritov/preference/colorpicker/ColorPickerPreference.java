@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package com.android.settings.arrow.margaritov.preference.colorpicker;
+package co.aospa.support.margaritov.preference.colorpicker;
 
 import android.content.Context;
 import android.content.res.TypedArray;

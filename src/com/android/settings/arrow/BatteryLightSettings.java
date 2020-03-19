@@ -31,7 +31,7 @@ import co.aospa.support.preferences.SystemSettingSwitchPreference;
 import com.android.settings.R;
 import com.android.settings.SettingsPreferenceFragment;
 
-import com.android.settings.arrow.margaritov.preference.colorpicker.ColorPickerPreference;
+import co.aospa.support.margaritov.preference.colorpicker.ColorPickerPreference;
 
 public class BatteryLightSettings extends SettingsPreferenceFragment implements
         Preference.OnPreferenceChangeListener {
